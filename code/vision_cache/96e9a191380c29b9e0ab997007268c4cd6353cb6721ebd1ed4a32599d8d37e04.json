@@ -1,0 +1,217 @@
+{
+  "file_id": "evidence_46",
+  "file_path": "evidence/images/object_storage_browser_20260213.png",
+  "model": "claude-opus-5-5",
+  "usage": {
+    "input_tokens": 3015,
+    "output_tokens": 2760
+  },
+  "extraction": {
+    "document_kind": "Object storage bucket browser screenshot (Nimbus Object Storage console)",
+    "title": "northstar-customer-data",
+    "resource_ids": [
+      "northstar-customer-data",
+      "northstar-assets",
+      "northstar-logs",
+      "eu-west-1",
+      "support-attachments",
+      "delivery_confirmation_19.pdf",
+      "delivery_confirmation_20.pdf",
+      "return_label_4821.pdf",
+      "return_label_4876.pdf",
+      "invoice_NS-10493.pdf",
+      "parcel_damage_7713.jpg",
+      "customer_export_2026-02-10.zip",
+      "customer_export_2026-02-12.zip",
+      "support-service"
+    ],
+    "identifiers": {
+      "emails": [],
+      "phones": [],
+      "email_hashes": [],
+      "user_ids": []
+    },
+    "fields": {
+      "Breadcrumb": "Northstar Shop / Nimbus Object Storage / northstar-customer-data",
+      "Object count badge": "8 objects",
+      "Path": "eu-west-1 / support-attachments / 2026 / 02",
+      "Account": "Northstar Production",
+      "Region": "eu-west-1",
+      "Captured": "13 Feb 2026 08:00 UTC",
+      "Storage class": "All",
+      "Objects table status": "Updated moments ago · 8 records",
+      "Selected object": "delivery_confirmation_19.pdf",
+      "Size": "684 KB",
+      "Version": "v3",
+      "Content type": "application/pdf",
+      "Encryption": "AES-256",
+      "Checksum": "e71b6d...",
+      "Uploader": "support-service",
+      "Modified": "12 Feb 2026 18:42 UTC",
+      "Environment": "Production",
+      "Workspace footer": "Nimbus Object Storage Production workspace build 2026.10.4"
+    },
+    "records": [
+      {
+        "#": "1",
+        "Name": "delivery_confirmation_19.pdf",
+        "Size": "684 KB",
+        "Modified (UTC)": "12 Feb 18:42",
+        "Storage class": "Standard",
+        "Version": "v3"
+      },
+      {
+        "#": "2",
+        "Name": "delivery_confirmation_20.pdf",
+        "Size": "712 KB",
+        "Modified (UTC)": "11 Feb 14:17",
+        "Storage class": "Standard",
+        "Version": "v1"
+      },
+      {
+        "#": "3",
+        "Name": "return_label_4821.pdf",
+        "Size": "203 KB",
+        "Modified (UTC)": "10 Feb 09:33",
+        "Storage class": "Standard",
+        "Version": "v1"
+      },
+      {
+        "#": "4",
+        "Name": "return_label_4876.pdf",
+        "Size": "198 KB",
+        "Modified (UTC)": "11 Feb 16:05",
+        "Storage class": "Standard",
+        "Version": "v2"
+      },
+      {
+        "#": "5",
+        "Name": "invoice_NS-10493.pdf",
+        "Size": "318 KB",
+        "Modified (UTC)": "10 Feb 11:21",
+        "Storage class": "Standard",
+        "Version": "v1"
+      },
+      {
+        "#": "6",
+        "Name": "parcel_damage_7713.jpg",
+        "Size": "2.4 MB",
+        "Modified (UTC)": "12 Feb 10:08",
+        "Storage class": "Standard",
+        "Version": "v1"
+      },
+      {
+        "#": "7",
+        "Name": "customer_export_2026-02-10.zip",
+        "Size": "128 MB",
+        "Modified (UTC)": "10 Feb 23:14",
+        "Storage class": "Standard",
+        "Version": "v1"
+      },
+      {
+        "#": "8",
+        "Name": "customer_export_2026-02-12.zip",
+        "Size": "131 MB",
+        "Modified (UTC)": "12 Feb 21:56",
+        "Storage class": "Standard",
+        "Version": "v1"
+      },
+      {
+        "Activity version": "v3",
+        "Activity": "12 Feb 18:42 · metadata update"
+      },
+      {
+        "Activity version": "v2",
+        "Activity": "12 Feb 18:39 · upload complete"
+      },
+      {
+        "Activity version": "v1",
+        "Activity": "12 Feb 18:38 · object created"
+      }
+    ],
+    "timestamps": [
+      "13 Feb 2026 08:00 UTC",
+      "12 Feb 18:42",
+      "11 Feb 14:17",
+      "10 Feb 09:33",
+      "11 Feb 16:05",
+      "10 Feb 11:21",
+      "12 Feb 10:08",
+      "10 Feb 23:14",
+      "12 Feb 21:56",
+      "12 Feb 2026 18:42 UTC",
+      "12 Feb 18:39",
+      "12 Feb 18:38"
+    ],
+    "lines": [
+      "Northstar Shop",
+      "Nimbus Object Storage",
+      "Search objects by name or prefix...",
+      "Production",
+      "Help",
+      "NO",
+      "Buckets",
+      "Access policies",
+      "Monitoring",
+      "Settings",
+      "northstar-assets",
+      "northstar-customer-data",
+      "northstar-logs",
+      "Northstar Shop / Nimbus Object Storage / northstar-customer-data",
+      "northstar-customer-data",
+      "8 objects",
+      "Filter",
+      "Export",
+      "Actions",
+      "eu-west-1 / support-attachments / 2026 / 02",
+      "Objects",
+      "Versions",
+      "Access",
+      "Account",
+      "Northstar Production",
+      "Region",
+      "eu-west-1",
+      "Captured",
+      "13 Feb 2026 08:00 UTC",
+      "Storage class",
+      "All",
+      "Objects",
+      "Updated moments ago · 8 records",
+      "delivery_confirmation_19.pdf",
+      "Name",
+      "Size",
+      "Modified (UTC)",
+      "Storage class",
+      "Version",
+      "1 delivery_confirmation_19.pdf 684 KB 12 Feb 18:42 Standard v3",
+      "2 delivery_confirmation_20.pdf 712 KB 11 Feb 14:17 Standard v1",
+      "3 return_label_4821.pdf 203 KB 10 Feb 09:33 Standard v1",
+      "4 return_label_4876.pdf 198 KB 11 Feb 16:05 Standard v2",
+      "5 invoice_NS-10493.pdf 318 KB 10 Feb 11:21 Standard v1",
+      "6 parcel_damage_7713.jpg 2.4 MB 12 Feb 10:08 Standard v1",
+      "7 customer_export_2026-02-10.zip 128 MB 10 Feb 23:14 Standard v1",
+      "8 customer_export_2026-02-12.zip 131 MB 12 Feb 21:56 Standard v1",
+      "Size 684 KB",
+      "Version v3",
+      "Content type application/pdf",
+      "Encryption AES-256",
+      "Checksum e71b6d...",
+      "Uploader support-service",
+      "Modified 12 Feb 2026 18:42 UTC",
+      "Activity",
+      "v3",
+      "12 Feb 18:42 · metadata update",
+      "v2",
+      "12 Feb 18:39 · upload complete",
+      "v1",
+      "12 Feb 18:38 · object created",
+      "Nimbus Object Storage",
+      "Production workspace",
+      "build 2026.10.4"
+    ],
+    "unreadable": [
+      "Checksum is truncated on screen as \"e71b6d...\"; the full value is not visible and is not transcribed as a hash.",
+      "The \"...\" menu icon next to the detail panel title has no readable text."
+    ]
+  }
+}

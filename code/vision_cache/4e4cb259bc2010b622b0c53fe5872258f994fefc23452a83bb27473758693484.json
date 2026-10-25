@@ -1,0 +1,194 @@
+{
+  "file_id": "evidence_19",
+  "file_path": "evidence/images/analytics_profile_view_20260713.png",
+  "model": "claude-opus-5-5",
+  "usage": {
+    "input_tokens": 3015,
+    "output_tokens": 2238
+  },
+  "extraction": {
+    "document_kind": "Analytics user profile screen (event timeline)",
+    "title": "Omar Darwish",
+    "resource_ids": [
+      "user_20",
+      "analytics_7438"
+    ],
+    "identifiers": {
+      "emails": [
+        "darwish.omar@icloud.com"
+      ],
+      "phones": [],
+      "email_hashes": [],
+      "user_ids": [
+        "user_20"
+      ]
+    },
+    "fields": {
+      "Breadcrumb": "Northstar Shop / Pulse Analytics / Users",
+      "Date range badge": "Last 90 days",
+      "Subtitle": "user_20 · analytics_7438 · darwish.omar@icloud.com",
+      "Sessions": "12",
+      "Products viewed": "19",
+      "Completed orders": "2",
+      "Revenue": "USD 167.42",
+      "Mobile / Desktop": "67% / 33%",
+      "Acquisition": "Organic search",
+      "Market": "AE",
+      "Audience": "Returning shopper",
+      "Interest": "Coffee & dining",
+      "Last activity": "13 Jul 2026 14:22 UTC",
+      "First seen": "21 Apr 2026 09:14 UTC",
+      "Event timeline status": "Updated moments ago · 5 records",
+      "Environment": "Production",
+      "Workspace": "Production workspace",
+      "Build": "build 2026.10.4"
+    },
+    "records": [
+      {
+        "#": "1",
+        "Time": "14:22",
+        "Event": "Order completed",
+        "Product / detail": "Ceramic coffee set",
+        "Value": "USD 84.21",
+        "Device": "Mobile"
+      },
+      {
+        "#": "2",
+        "Time": "14:20",
+        "Event": "Checkout started",
+        "Product / detail": "2 items",
+        "Value": "USD 84.21",
+        "Device": "Mobile"
+      },
+      {
+        "#": "3",
+        "Time": "14:17",
+        "Event": "Product viewed",
+        "Product / detail": "Ceramic coffee set",
+        "Value": "—",
+        "Device": "Mobile"
+      },
+      {
+        "#": "4",
+        "Time": "14:16",
+        "Event": "Added to cart",
+        "Product / detail": "Ceramic coffee set",
+        "Value": "USD 42.00",
+        "Device": "Mobile"
+      },
+      {
+        "#": "5",
+        "Time": "14:12",
+        "Event": "Product viewed",
+        "Product / detail": "Stoneware mug",
+        "Value": "USD 18.00",
+        "Device": "Desktop"
+      },
+      {
+        "Activity date": "13 Jul",
+        "Activity detail": "6 events in active session"
+      },
+      {
+        "Activity date": "08 Jul",
+        "Activity detail": "Order completed · USD 83.21"
+      },
+      {
+        "Activity date": "30 Jun",
+        "Activity detail": "Product search · coffee set"
+      },
+      {
+        "Activity date": "22 Jun",
+        "Activity detail": "Campaign opened"
+      }
+    ],
+    "timestamps": [
+      "14:22",
+      "14:20",
+      "14:17",
+      "14:16",
+      "14:12",
+      "13 Jul 2026 14:22 UTC",
+      "21 Apr 2026 09:14 UTC",
+      "13 Jul",
+      "08 Jul",
+      "30 Jun",
+      "22 Jun"
+    ],
+    "lines": [
+      "Northstar Shop",
+      "Pulse Analytics",
+      "Search users, products, orders or events...",
+      "Production",
+      "Help",
+      "PA",
+      "Overview",
+      "Real-time",
+      "Users",
+      "Products",
+      "Funnels",
+      "Journeys",
+      "Audiences",
+      "Reports",
+      "Northstar Shop / Pulse Analytics / Users",
+      "Omar Darwish",
+      "Last 90 days",
+      "Filter",
+      "Export",
+      "Actions",
+      "user_20 · analytics_7438 · darwish.omar@icloud.com",
+      "Event timeline",
+      "Sessions (12)",
+      "Orders (2)",
+      "Products viewed (19)",
+      "Sessions",
+      "12",
+      "Products viewed",
+      "19",
+      "Completed orders",
+      "2",
+      "Revenue",
+      "USD 167.42",
+      "Mobile / Desktop",
+      "67% / 33%",
+      "Acquisition",
+      "Organic search",
+      "Event timeline",
+      "Updated moments ago · 5 records",
+      "Profile attributes",
+      "···",
+      "Time",
+      "Event",
+      "Product / detail",
+      "Value",
+      "Device",
+      "Market",
+      "AE",
+      "1 14:22 Order completed Ceramic coffee set USD 84.21 Mobile",
+      "Audience",
+      "Returning shopper",
+      "2 14:20 Checkout started 2 items USD 84.21 Mobile",
+      "Interest",
+      "Coffee & dining",
+      "Last activity",
+      "13 Jul 2026 14:22 UTC",
+      "3 14:17 Product viewed Ceramic coffee set — Mobile",
+      "First seen",
+      "21 Apr 2026 09:14 UTC",
+      "4 14:16 Added to cart Ceramic coffee set USD 42.00 Mobile",
+      "Activity",
+      "5 14:12 Product viewed Stoneware mug USD 18.00 Desktop",
+      "13 Jul",
+      "6 events in active session",
+      "08 Jul",
+      "Order completed · USD 83.21",
+      "30 Jun",
+      "Product search · coffee set",
+      "22 Jun",
+      "Campaign opened",
+      "Pulse Analytics",
+      "Production workspace",
+      "build 2026.10.4"
+    ],
+    "unreadable": []
+  }
+}

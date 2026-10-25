@@ -1,0 +1,196 @@
+{
+  "file_id": "evidence_42",
+  "file_path": "evidence/images/deleted_account_reference_20260310.png",
+  "model": "claude-opus-5-5",
+  "usage": {
+    "input_tokens": 2885,
+    "output_tokens": 2120
+  },
+  "extraction": {
+    "document_kind": "Application screenshot - customer reference detail page (Customer Reference Registry)",
+    "title": "user_17",
+    "resource_ids": [
+      "user_17",
+      "ORD-20263245",
+      "CS-3245",
+      "CS-3378",
+      "FIN-7742"
+    ],
+    "identifiers": {
+      "emails": [],
+      "phones": [],
+      "email_hashes": [],
+      "user_ids": [
+        "user_17"
+      ]
+    },
+    "fields": {
+      "Status badge": "Retained reference",
+      "Subtitle": "Customer key · Account Platform · eu-west",
+      "Reference type": "Customer key",
+      "Created": "11 Jan 2024 08:42 UTC",
+      "Most recent update": "10 Mar 2026 07:18 UTC",
+      "Owner team": "Account Platform",
+      "Overview table status": "Updated moments ago · 4 records",
+      "Environment": "Production",
+      "Workspace": "Production workspace",
+      "Build": "build 2026.10.4",
+      "Active tab": "Overview"
+    },
+    "records": [
+      {
+        "#": "1",
+        "System": "Orders",
+        "Record reference": "ORD-20263245",
+        "Relationship": "Linked to customer",
+        "Created (UTC)": "11 Jan 2024 08:45",
+        "Status": "Active"
+      },
+      {
+        "#": "2",
+        "System": "Support",
+        "Record reference": "CS-3245",
+        "Relationship": "Linked to customer",
+        "Created (UTC)": "14 Feb 2024 12:16",
+        "Status": "Active"
+      },
+      {
+        "#": "3",
+        "System": "Support",
+        "Record reference": "CS-3378",
+        "Relationship": "Linked to customer",
+        "Created (UTC)": "03 Jun 2024 09:27",
+        "Status": "Active"
+      },
+      {
+        "#": "4",
+        "System": "Finance",
+        "Record reference": "FIN-7742",
+        "Relationship": "Linked to customer",
+        "Created (UTC)": "22 Aug 2024 15:03",
+        "Status": "Active"
+      },
+      {
+        "History date": "10 Mar 2026",
+        "Event": "Metadata reviewed"
+      },
+      {
+        "History date": "22 Aug 2024",
+        "Event": "Finance link added"
+      },
+      {
+        "History date": "03 Jun 2024",
+        "Event": "Support link added"
+      },
+      {
+        "History date": "14 Feb 2024",
+        "Event": "Support link added"
+      },
+      {
+        "History date": "11 Jan 2024",
+        "Event": "Reference created"
+      },
+      {
+        "Activity": "Reference created",
+        "Detail": "Recorded"
+      },
+      {
+        "Activity": "Order link added",
+        "Detail": "ORD-20263245"
+      },
+      {
+        "Activity": "Support links added",
+        "Detail": "CS-3245, CS-3378"
+      },
+      {
+        "Activity": "Finance link added",
+        "Detail": "FIN-7742"
+      },
+      {
+        "Activity": "Metadata reviewed",
+        "Detail": "Recorded"
+      }
+    ],
+    "timestamps": [
+      "11 Jan 2024 08:42 UTC",
+      "10 Mar 2026 07:18 UTC",
+      "11 Jan 2024 08:45",
+      "14 Feb 2024 12:16",
+      "03 Jun 2024 09:27",
+      "22 Aug 2024 15:03",
+      "10 Mar 2026",
+      "22 Aug 2024",
+      "03 Jun 2024",
+      "14 Feb 2024",
+      "11 Jan 2024"
+    ],
+    "lines": [
+      "Northstar Shop",
+      "Customer Reference Registry",
+      "Search references, orders, support cases or finance records...",
+      "Production",
+      "Help",
+      "CR",
+      "Home",
+      "Customer references",
+      "Orders",
+      "Support",
+      "Finance",
+      "Data management",
+      "Reports",
+      "Northstar Shop / Customer Reference Registry / Customer references",
+      "user_17",
+      "Retained reference",
+      "Filter",
+      "Export",
+      "Actions",
+      "Customer key · Account Platform · eu-west",
+      "Overview",
+      "Linked records",
+      "History",
+      "Reference type",
+      "Customer key",
+      "Created",
+      "11 Jan 2024 08:42 UTC",
+      "Most recent update",
+      "10 Mar 2026 07:18 UTC",
+      "Owner team",
+      "Account Platform",
+      "Overview",
+      "Updated moments ago · 4 records",
+      "History",
+      "...",
+      "System",
+      "Record reference",
+      "Relationship",
+      "Created (UTC)",
+      "Status",
+      "1 Orders ORD-20263245 Linked to customer 11 Jan 2024 08:45 Active",
+      "10 Mar 2026 Metadata reviewed",
+      "22 Aug 2024 Finance link added",
+      "2 Support CS-3245 Linked to customer 14 Feb 2024 12:16 Active",
+      "03 Jun 2024 Support link added",
+      "14 Feb 2024 Support link added",
+      "3 Support CS-3378 Linked to customer 03 Jun 2024 09:27 Active",
+      "11 Jan 2024 Reference created",
+      "4 Finance FIN-7742 Linked to customer 22 Aug 2024 15:03 Active",
+      "Activity",
+      "Reference created",
+      "Recorded",
+      "Order link added",
+      "ORD-20263245",
+      "Support links added",
+      "CS-3245, CS-3378",
+      "Finance link added",
+      "FIN-7742",
+      "Metadata reviewed",
+      "Recorded",
+      "Customer Reference Registry",
+      "Production workspace",
+      "build 2026.10.4"
+    ],
+    "unreadable": [
+      "Small sparkline charts in the four summary cards have no readable values"
+    ]
+  }
+}

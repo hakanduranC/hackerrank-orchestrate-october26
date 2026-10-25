@@ -1,0 +1,147 @@
+{
+  "file_id": "evidence_60",
+  "file_path": "evidence/images/marketing_profile_console.png",
+  "model": "claude-opus-5-5",
+  "usage": {
+    "input_tokens": 2067,
+    "output_tokens": 1116
+  },
+  "extraction": {
+    "document_kind": "application screenshot — customer profile page (Audience Operations)",
+    "title": "Soo-jin Park",
+    "resource_ids": [
+      "marketing_001"
+    ],
+    "identifiers": {
+      "emails": [
+        "sj.park@naver.com"
+      ],
+      "phones": [
+        "+82 10-5837-9451"
+      ],
+      "email_hashes": [],
+      "user_ids": []
+    },
+    "fields": {
+      "Status badge": "Live",
+      "Market": "South Korea",
+      "Language": "Korean",
+      "Email opt-in": "Yes",
+      "SMS opt-in": "No",
+      "Last refreshed": "15 Sep 2026 23:40 UTC",
+      "Audience": "Returning customers — East Asia",
+      "Segments": "Repeat customer · Home & lifestyle · Mobile shopper",
+      "Preferred categories": "Desk accessories · Drinkware",
+      "Last campaign": "Autumn offers",
+      "Open rate": "32.4%",
+      "Click rate": "6.8%"
+    },
+    "records": [
+      {
+        "#": "1",
+        "Time": "23:40",
+        "Activity": "Product-category update",
+        "Detail": "Desk accessories · Drinkware"
+      },
+      {
+        "#": "2",
+        "Time": "23:38",
+        "Activity": "Campaign eligibility check",
+        "Detail": "Autumn offers · Eligible"
+      },
+      {
+        "#": "3",
+        "Time": "23:35",
+        "Activity": "Profile refresh",
+        "Detail": "Live profile fields updated"
+      },
+      {
+        "#": "4",
+        "Time": "23:32",
+        "Activity": "Audience evaluation",
+        "Detail": "Returning customers — East Asia"
+      }
+    ],
+    "timestamps": [
+      "15 Sep 2026 23:40 UTC",
+      "23:40",
+      "23:38",
+      "23:35",
+      "23:32",
+      "Updated moments ago"
+    ],
+    "lines": [
+      "Northstar Shop",
+      "Audience Operations",
+      "Search customers, audiences, campaigns...",
+      "Production",
+      "Help",
+      "AO",
+      "Home",
+      "Audience Operations",
+      "Campaigns",
+      "Journeys",
+      "Products",
+      "Analytics",
+      "Data",
+      "Settings",
+      "Northstar Shop / Audience Operations / Audience Operations",
+      "Soo-jin Park",
+      "Live",
+      "Filter",
+      "Export",
+      "Actions",
+      "marketing_001 · sj.park@naver.com · +82 10-5837-9451",
+      "Profile",
+      "Attributes",
+      "Memberships",
+      "Activity",
+      "Market",
+      "South Korea",
+      "Language",
+      "Korean",
+      "Email opt-in",
+      "Yes",
+      "SMS opt-in",
+      "No",
+      "Last refreshed",
+      "15 Sep 2026 23:40 UTC",
+      "Profile",
+      "Updated moments ago · 4 records",
+      "Audience membership",
+      "Time",
+      "Activity",
+      "Detail",
+      "Audience",
+      "Returning customers — East Asia",
+      "1 23:40 Product-category update Desk accessories · Drinkware",
+      "Segments",
+      "Repeat customer · Home & lifestyle",
+      "· Mobile shopper",
+      "2 23:38 Campaign eligibility check Autumn offers · Eligible",
+      "Preferred categories",
+      "Desk accessories · Drinkware",
+      "3 23:35 Profile refresh Live profile fields updated",
+      "Last campaign",
+      "Autumn offers",
+      "4 23:32 Audience evaluation Returning customers — East Asia",
+      "Open rate",
+      "32.4%",
+      "Click rate",
+      "6.8%",
+      "Activity",
+      "Autumn offers",
+      "32.4% open rate",
+      "Home & Lifestyle Picks",
+      "28.7% open rate",
+      "Profile refreshed from live data",
+      "Recorded",
+      "Audience Operations",
+      "Production workspace",
+      "build 2026.10.4"
+    ],
+    "unreadable": [
+      "Sparkline charts in Market, Language, Email opt-in and SMS opt-in cards (graphical, no values)"
+    ]
+  }
+}
